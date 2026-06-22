@@ -1,0 +1,6 @@
+{
+  "name": "Aplikasi Akuntansi",
+  "description": "Aplikasi akuntansi lengkap berstandar SAK EP 2025 dengan parser transaksi otomatis bertenaga AI Gemini, jurnal umum, buku besar, neraca saldo, laporan keuangan lengkap (Laba Rugi, Perubahan Ekuitas, Neraca, Arus Kas), rujukan rumus dan kalkulator interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
